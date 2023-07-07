@@ -1,6 +1,6 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { HojaDeVidaComponent } from './hoja-de-vida.component';
+
 
 describe('HojaDeVidaComponent', () => {
   let component: HojaDeVidaComponent;
